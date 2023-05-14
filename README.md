@@ -1,4 +1,6 @@
 # Credit Risk Classification
+![geronimo-giqueaux-Mp4Fq6zj6D4-unsplash](https://github.com/CLizardi/credit-risk-classification/assets/52866379/438300b8-57e8-4bbe-ba5a-e2b0b2bd78ee)
+
 
 # Introduction
 This project focuses on building a machine learning model to predict credit risk using historical lending data from a peer-to-peer lending services company. The goal is to develop a model that can accurately identify the creditworthiness of borrowers, distinguishing between healthy loans and high-risk loans.
